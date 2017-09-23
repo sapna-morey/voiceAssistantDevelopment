@@ -1,0 +1,2 @@
+# voiceAssistantDevelopment
+scripts
